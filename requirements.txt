@@ -1,0 +1,27 @@
+# CrewAI Core
+crewai==0.130.0
+crewai-tools==0.47.1
+
+# API
+fastapi==0.110.3
+uvicorn
+python-dotenv
+
+# LangChain
+langchain-community
+langchain-core
+langsmith
+
+# LLM
+openai
+
+# Data
+numpy
+pandas
+pypdf
+
+# Utilities
+Jinja2
+jsonschema
+pillow
+protobuf
