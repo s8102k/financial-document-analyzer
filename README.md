@@ -129,7 +129,7 @@ Added:
 git clone <your-repo-link>
 cd financial-document-analyzer
 
-### 2️ Create Virtual Environment
+2️ Create Virtual Environment
 python -m venv venv
 
 Activate:
@@ -138,7 +138,7 @@ Windows
 
 venv\Scripts\activate
 
-### 3️ Install Dependencies
+3️ Install Dependencies
 
 pip install -r requirements.txt
 
